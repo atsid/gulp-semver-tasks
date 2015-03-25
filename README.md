@@ -1,3 +1,7 @@
+[![Dependency Status](https://david-dm.org/atsid/gulp-semver-tasks.svg)](https://david-dm.org/atsid/gulp-semver-tasks)
+
+[![NPM](https://nodei.co/npm/gulp-semver-tasks.png)](https://nodei.co/npm/gulp-semver-tasks/)
+
 # gulp-semver-tasks
 Semver Management Tasks for Gulp
 
