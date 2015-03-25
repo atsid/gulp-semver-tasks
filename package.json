@@ -1,0 +1,29 @@
+{
+  "name": "gulp-semver-tasks",
+  "version": "0.1.0",
+  "description": "Semver Management Tasks for Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://www.github.com/atsid/gulp-semver-tasks"
+  },
+  "keywords": [
+    "gulp",
+    "semver"
+  ],
+  "author": "ATS",
+  "contributors": [
+    "Chris Trevino <chris.trevino@atsid.com>"
+  ],
+  "license": "Apache",
+  "dependencies": {
+    "gulp": "^3.8.11",
+    "gulp-bump": "^0.3.0",
+    "gulp-filter": "^2.0.2",
+    "gulp-git": "^1.1.0",
+    "gulp-tag-version": "^1.2.1"
+  }
+}
