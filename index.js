@@ -1,3 +1,7 @@
+/**
+ * Semver Tasks for Gulp.
+ * Adapted from the example provided at https://github.com/ikari-pl/gulp-tag-version
+ */
 module.exports = function(gulp, config) {
     var bump = require('gulp-bump'),
         git = require('gulp-git'),
