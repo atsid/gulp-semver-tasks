@@ -17,7 +17,7 @@ require('gulp-semver-tasks')(gulp, {versionSource: ['./package.json', './bower.j
 ```
 
 ```bash
-# This will adjust semver or the configured files, then commit and tag the update.
+# This will adjust semver on the configured files, then commit and tag the update.
 gulp bump:patch
 gulp bump:minor
 gulp bump:major
