@@ -1,5 +1,6 @@
 [![Code Climate](https://codeclimate.com/github/atsid/gulp-semver-tasks/badges/gpa.svg)](https://codeclimate.com/github/atsid/gulp-semver-tasks)
 [![Dependency Status](https://david-dm.org/atsid/gulp-semver-tasks.svg)](https://david-dm.org/atsid/gulp-semver-tasks)
+[![Dev Dependency Status](https://david-dm.org/atsid/gulp-semver-tasks/dev-status.svg)](https://david-dm.org/atsid/gulp-semver-tasks)
 
 [![NPM](https://nodei.co/npm/gulp-semver-tasks.png)](https://nodei.co/npm/gulp-semver-tasks/)
 
